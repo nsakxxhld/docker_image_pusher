@@ -10,7 +10,7 @@
 #c0ny1/upload-labs
 #acgpiano/sqli-labs
 #raesene/bwapp
+#shadowaura/xss-labs
+#adysec/arl
 
-shadowaura/xss-labs
-adysec/arl
 Oxgkd/awvs
