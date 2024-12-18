@@ -13,4 +13,4 @@
 #shadowaura/xss-labs
 #adysec/arl
 
-Oxgkd/awvs
+xrsec/awvs
