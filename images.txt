@@ -12,5 +12,4 @@
 #raesene/bwapp
 #shadowaura/xss-labs
 #adysec/arl
-
-xrsec/awvs
+#xrsec/awvs
