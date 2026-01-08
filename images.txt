@@ -1,7 +1,15 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-secfa/awvs:latest
+#--platform=linux/arm64 xiaoyaliu/alist
+
+#amostdownload
+#secfa/awvs:latest
+vulhub/log4j:2.8.1
+vulhub/fastjson:1.2.24
+vulhub/fastjson:1.2.45
+vulhub/shiro:1.0.0
+vulhub/shiro:1.5.1
+vulhub/shiro:1.2.4
